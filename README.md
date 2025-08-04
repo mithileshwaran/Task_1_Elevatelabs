@@ -27,8 +27,7 @@ This task helped build practical skills in reconnaissance — the first phase of
 ```bash
 nmap -sS 192.168.104.0/24
 
-
- ---
+---
 
 📂 Output File: scan_result.txt
 🖼️ Screenshot File: nmap_result_gui.png
