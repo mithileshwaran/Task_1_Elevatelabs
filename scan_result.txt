@@ -1,0 +1,516 @@
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-04 19:01 +0530
+NSE: Loaded 158 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 19:01
+Completed NSE at 19:01, 0.01s elapsed
+Initiating NSE at 19:01
+Completed NSE at 19:01, 0.00s elapsed
+Initiating NSE at 19:01
+Completed NSE at 19:01, 0.00s elapsed
+Initiating ARP Ping Scan at 19:01
+Scanning 255 hosts [1 port/host]
+Completed ARP Ping Scan at 19:01, 16.21s elapsed (255 total hosts)
+Initiating Parallel DNS resolution of 255 hosts. at 19:01
+Completed Parallel DNS resolution of 255 hosts. at 19:02, 29.15s elapsed
+Nmap scan report for 192.168.104.0 [host down]
+Nmap scan report for 192.168.104.1 [host down]
+Nmap scan report for 192.168.104.2 [host down]
+Nmap scan report for 192.168.104.3 [host down]
+Nmap scan report for 192.168.104.4 [host down]
+Nmap scan report for 192.168.104.5 [host down]
+Nmap scan report for 192.168.104.6 [host down]
+Nmap scan report for 192.168.104.7 [host down]
+Nmap scan report for 192.168.104.8 [host down]
+Nmap scan report for 192.168.104.9 [host down]
+Nmap scan report for 192.168.104.10 [host down]
+Nmap scan report for 192.168.104.11 [host down]
+Nmap scan report for 192.168.104.12 [host down]
+Nmap scan report for 192.168.104.13 [host down]
+Nmap scan report for 192.168.104.14 [host down]
+Nmap scan report for 192.168.104.15 [host down]
+Nmap scan report for 192.168.104.16 [host down]
+Nmap scan report for 192.168.104.17 [host down]
+Nmap scan report for 192.168.104.18 [host down]
+Nmap scan report for 192.168.104.19 [host down]
+Nmap scan report for 192.168.104.20 [host down]
+Nmap scan report for 192.168.104.21 [host down]
+Nmap scan report for 192.168.104.22 [host down]
+Nmap scan report for 192.168.104.23 [host down]
+Nmap scan report for 192.168.104.24 [host down]
+Nmap scan report for 192.168.104.25 [host down]
+Nmap scan report for 192.168.104.26 [host down]
+Nmap scan report for 192.168.104.27 [host down]
+Nmap scan report for 192.168.104.28 [host down]
+Nmap scan report for 192.168.104.29 [host down]
+Nmap scan report for 192.168.104.30 [host down]
+Nmap scan report for 192.168.104.31 [host down]
+Nmap scan report for 192.168.104.32 [host down]
+Nmap scan report for 192.168.104.33 [host down]
+Nmap scan report for 192.168.104.34 [host down]
+Nmap scan report for 192.168.104.35 [host down]
+Nmap scan report for 192.168.104.36 [host down]
+Nmap scan report for 192.168.104.37 [host down]
+Nmap scan report for 192.168.104.38 [host down]
+Nmap scan report for 192.168.104.39 [host down]
+Nmap scan report for 192.168.104.40 [host down]
+Nmap scan report for 192.168.104.41 [host down]
+Nmap scan report for 192.168.104.42 [host down]
+Nmap scan report for 192.168.104.43 [host down]
+Nmap scan report for 192.168.104.44 [host down]
+Nmap scan report for 192.168.104.45 [host down]
+Nmap scan report for 192.168.104.46 [host down]
+Nmap scan report for 192.168.104.47 [host down]
+Nmap scan report for 192.168.104.48 [host down]
+Nmap scan report for 192.168.104.49 [host down]
+Nmap scan report for 192.168.104.50 [host down]
+Nmap scan report for 192.168.104.51 [host down]
+Nmap scan report for 192.168.104.52 [host down]
+Nmap scan report for 192.168.104.53 [host down]
+Nmap scan report for 192.168.104.54 [host down]
+Nmap scan report for 192.168.104.55 [host down]
+Nmap scan report for 192.168.104.56 [host down]
+Nmap scan report for 192.168.104.57 [host down]
+Nmap scan report for 192.168.104.58 [host down]
+Nmap scan report for 192.168.104.59 [host down]
+Nmap scan report for 192.168.104.60 [host down]
+Nmap scan report for 192.168.104.61 [host down]
+Nmap scan report for 192.168.104.62 [host down]
+Nmap scan report for 192.168.104.63 [host down]
+Nmap scan report for 192.168.104.64 [host down]
+Nmap scan report for 192.168.104.65 [host down]
+Nmap scan report for 192.168.104.66 [host down]
+Nmap scan report for 192.168.104.67 [host down]
+Nmap scan report for 192.168.104.68 [host down]
+Nmap scan report for 192.168.104.69 [host down]
+Nmap scan report for 192.168.104.70 [host down]
+Nmap scan report for 192.168.104.71 [host down]
+Nmap scan report for 192.168.104.72 [host down]
+Nmap scan report for 192.168.104.73 [host down]
+Nmap scan report for 192.168.104.74 [host down]
+Nmap scan report for 192.168.104.75 [host down]
+Nmap scan report for 192.168.104.76 [host down]
+Nmap scan report for 192.168.104.77 [host down]
+Nmap scan report for 192.168.104.79 [host down]
+Nmap scan report for 192.168.104.80 [host down]
+Nmap scan report for 192.168.104.81 [host down]
+Nmap scan report for 192.168.104.82 [host down]
+Nmap scan report for 192.168.104.83 [host down]
+Nmap scan report for 192.168.104.84 [host down]
+Nmap scan report for 192.168.104.85 [host down]
+Nmap scan report for 192.168.104.86 [host down]
+Nmap scan report for 192.168.104.87 [host down]
+Nmap scan report for 192.168.104.88 [host down]
+Nmap scan report for 192.168.104.89 [host down]
+Nmap scan report for 192.168.104.90 [host down]
+Nmap scan report for 192.168.104.91 [host down]
+Nmap scan report for 192.168.104.92 [host down]
+Nmap scan report for 192.168.104.93 [host down]
+Nmap scan report for 192.168.104.94 [host down]
+Nmap scan report for 192.168.104.96 [host down]
+Nmap scan report for 192.168.104.97 [host down]
+Nmap scan report for 192.168.104.98 [host down]
+Nmap scan report for 192.168.104.99 [host down]
+Nmap scan report for 192.168.104.100 [host down]
+Nmap scan report for 192.168.104.101 [host down]
+Nmap scan report for 192.168.104.102 [host down]
+Nmap scan report for 192.168.104.103 [host down]
+Nmap scan report for 192.168.104.104 [host down]
+Nmap scan report for 192.168.104.105 [host down]
+Nmap scan report for 192.168.104.106 [host down]
+Nmap scan report for 192.168.104.107 [host down]
+Nmap scan report for 192.168.104.108 [host down]
+Nmap scan report for 192.168.104.109 [host down]
+Nmap scan report for 192.168.104.110 [host down]
+Nmap scan report for 192.168.104.111 [host down]
+Nmap scan report for 192.168.104.112 [host down]
+Nmap scan report for 192.168.104.113 [host down]
+Nmap scan report for 192.168.104.114 [host down]
+Nmap scan report for 192.168.104.115 [host down]
+Nmap scan report for 192.168.104.116 [host down]
+Nmap scan report for 192.168.104.117 [host down]
+Nmap scan report for 192.168.104.118 [host down]
+Nmap scan report for 192.168.104.119 [host down]
+Nmap scan report for 192.168.104.120 [host down]
+Nmap scan report for 192.168.104.121 [host down]
+Nmap scan report for 192.168.104.122 [host down]
+Nmap scan report for 192.168.104.123 [host down]
+Nmap scan report for 192.168.104.124 [host down]
+Nmap scan report for 192.168.104.125 [host down]
+Nmap scan report for 192.168.104.126 [host down]
+Nmap scan report for 192.168.104.127 [host down]
+Nmap scan report for 192.168.104.128 [host down]
+Nmap scan report for 192.168.104.129 [host down]
+Nmap scan report for 192.168.104.130 [host down]
+Nmap scan report for 192.168.104.131 [host down]
+Nmap scan report for 192.168.104.132 [host down]
+Nmap scan report for 192.168.104.133 [host down]
+Nmap scan report for 192.168.104.134 [host down]
+Nmap scan report for 192.168.104.135 [host down]
+Nmap scan report for 192.168.104.136 [host down]
+Nmap scan report for 192.168.104.137 [host down]
+Nmap scan report for 192.168.104.138 [host down]
+Nmap scan report for 192.168.104.139 [host down]
+Nmap scan report for 192.168.104.140 [host down]
+Nmap scan report for 192.168.104.141 [host down]
+Nmap scan report for 192.168.104.142 [host down]
+Nmap scan report for 192.168.104.143 [host down]
+Nmap scan report for 192.168.104.144 [host down]
+Nmap scan report for 192.168.104.145 [host down]
+Nmap scan report for 192.168.104.146 [host down]
+Nmap scan report for 192.168.104.147 [host down]
+Nmap scan report for 192.168.104.148 [host down]
+Nmap scan report for 192.168.104.149 [host down]
+Nmap scan report for 192.168.104.150 [host down]
+Nmap scan report for 192.168.104.151 [host down]
+Nmap scan report for 192.168.104.152 [host down]
+Nmap scan report for 192.168.104.153 [host down]
+Nmap scan report for 192.168.104.154 [host down]
+Nmap scan report for 192.168.104.155 [host down]
+Nmap scan report for 192.168.104.156 [host down]
+Nmap scan report for 192.168.104.157 [host down]
+Nmap scan report for 192.168.104.158 [host down]
+Nmap scan report for 192.168.104.159 [host down]
+Nmap scan report for 192.168.104.160 [host down]
+Nmap scan report for 192.168.104.161 [host down]
+Nmap scan report for 192.168.104.162 [host down]
+Nmap scan report for 192.168.104.163 [host down]
+Nmap scan report for 192.168.104.164 [host down]
+Nmap scan report for 192.168.104.165 [host down]
+Nmap scan report for 192.168.104.166 [host down]
+Nmap scan report for 192.168.104.167 [host down]
+Nmap scan report for 192.168.104.168 [host down]
+Nmap scan report for 192.168.104.169 [host down]
+Nmap scan report for 192.168.104.170 [host down]
+Nmap scan report for 192.168.104.171 [host down]
+Nmap scan report for 192.168.104.172 [host down]
+Nmap scan report for 192.168.104.173 [host down]
+Nmap scan report for 192.168.104.174 [host down]
+Nmap scan report for 192.168.104.175 [host down]
+Nmap scan report for 192.168.104.176 [host down]
+Nmap scan report for 192.168.104.177 [host down]
+Nmap scan report for 192.168.104.178 [host down]
+Nmap scan report for 192.168.104.179 [host down]
+Nmap scan report for 192.168.104.180 [host down]
+Nmap scan report for 192.168.104.181 [host down]
+Nmap scan report for 192.168.104.182 [host down]
+Nmap scan report for 192.168.104.183 [host down]
+Nmap scan report for 192.168.104.184 [host down]
+Nmap scan report for 192.168.104.185 [host down]
+Nmap scan report for 192.168.104.186 [host down]
+Nmap scan report for 192.168.104.187 [host down]
+Nmap scan report for 192.168.104.188 [host down]
+Nmap scan report for 192.168.104.189 [host down]
+Nmap scan report for 192.168.104.190 [host down]
+Nmap scan report for 192.168.104.191 [host down]
+Nmap scan report for 192.168.104.192 [host down]
+Nmap scan report for 192.168.104.193 [host down]
+Nmap scan report for 192.168.104.194 [host down]
+Nmap scan report for 192.168.104.195 [host down]
+Nmap scan report for 192.168.104.196 [host down]
+Nmap scan report for 192.168.104.197 [host down]
+Nmap scan report for 192.168.104.198 [host down]
+Nmap scan report for 192.168.104.199 [host down]
+Nmap scan report for 192.168.104.200 [host down]
+Nmap scan report for 192.168.104.201 [host down]
+Nmap scan report for 192.168.104.202 [host down]
+Nmap scan report for 192.168.104.203 [host down]
+Nmap scan report for 192.168.104.204 [host down]
+Nmap scan report for 192.168.104.205 [host down]
+Nmap scan report for 192.168.104.206 [host down]
+Nmap scan report for 192.168.104.207 [host down]
+Nmap scan report for 192.168.104.208 [host down]
+Nmap scan report for 192.168.104.209 [host down]
+Nmap scan report for 192.168.104.210 [host down]
+Nmap scan report for 192.168.104.211 [host down]
+Nmap scan report for 192.168.104.212 [host down]
+Nmap scan report for 192.168.104.213 [host down]
+Nmap scan report for 192.168.104.214 [host down]
+Nmap scan report for 192.168.104.215 [host down]
+Nmap scan report for 192.168.104.216 [host down]
+Nmap scan report for 192.168.104.217 [host down]
+Nmap scan report for 192.168.104.218 [host down]
+Nmap scan report for 192.168.104.219 [host down]
+Nmap scan report for 192.168.104.220 [host down]
+Nmap scan report for 192.168.104.221 [host down]
+Nmap scan report for 192.168.104.222 [host down]
+Nmap scan report for 192.168.104.223 [host down]
+Nmap scan report for 192.168.104.224 [host down]
+Nmap scan report for 192.168.104.225 [host down]
+Nmap scan report for 192.168.104.226 [host down]
+Nmap scan report for 192.168.104.227 [host down]
+Nmap scan report for 192.168.104.228 [host down]
+Nmap scan report for 192.168.104.229 [host down]
+Nmap scan report for 192.168.104.230 [host down]
+Nmap scan report for 192.168.104.231 [host down]
+Nmap scan report for 192.168.104.232 [host down]
+Nmap scan report for 192.168.104.233 [host down]
+Nmap scan report for 192.168.104.234 [host down]
+Nmap scan report for 192.168.104.235 [host down]
+Nmap scan report for 192.168.104.236 [host down]
+Nmap scan report for 192.168.104.237 [host down]
+Nmap scan report for 192.168.104.238 [host down]
+Nmap scan report for 192.168.104.239 [host down]
+Nmap scan report for 192.168.104.240 [host down]
+Nmap scan report for 192.168.104.242 [host down]
+Nmap scan report for 192.168.104.243 [host down]
+Nmap scan report for 192.168.104.244 [host down]
+Nmap scan report for 192.168.104.245 [host down]
+Nmap scan report for 192.168.104.246 [host down]
+Nmap scan report for 192.168.104.247 [host down]
+Nmap scan report for 192.168.104.248 [host down]
+Nmap scan report for 192.168.104.249 [host down]
+Nmap scan report for 192.168.104.250 [host down]
+Nmap scan report for 192.168.104.251 [host down]
+Nmap scan report for 192.168.104.252 [host down]
+Nmap scan report for 192.168.104.253 [host down]
+Nmap scan report for 192.168.104.254 [host down]
+Nmap scan report for 192.168.104.255 [host down]
+Initiating Parallel DNS resolution of 1 host. at 19:02
+Completed Parallel DNS resolution of 1 host. at 19:02, 0.50s elapsed
+Initiating SYN Stealth Scan at 19:02
+Scanning 2 hosts [1000 ports/host]
+Discovered open port 53/tcp on 192.168.104.95
+Completed SYN Stealth Scan against 192.168.104.95 in 10.04s (1 host left)
+adjust_timeouts2: packet supposedly had rtt of 10687000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10687000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10651000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10651000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10607000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10607000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10602000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10602000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10625000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10625000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10615000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10615000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10584000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10584000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10604000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10604000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10615000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10615000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10639000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10639000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10600000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10600000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10601000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10601000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10610000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10610000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9380000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9380000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10602000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10602000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10454000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10454000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10462000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10462000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10570000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10570000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10608000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10608000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9380000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9380000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9395000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9395000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9457000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9457000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9363000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9363000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9233000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9233000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10630000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10630000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9392000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9392000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10607000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10607000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9360000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9360000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10641000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10641000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9248000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9248000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9404000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9404000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9469000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9469000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10648000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10648000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10619000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10619000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10649000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10649000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9533000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9533000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9432000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9432000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9486000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9486000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9503000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9503000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10575000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 10575000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9511000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9511000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9482000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9482000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9479000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9479000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9429000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9429000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9446000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9446000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9544000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9544000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9455000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9455000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9348000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9348000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9490000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9490000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8102000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8102000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9495000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9495000 microseconds.  Ignoring time.
+Completed SYN Stealth Scan at 19:02, 35.09s elapsed (2000 total ports)
+Initiating Service scan at 19:02
+Scanning 1 service on 2 hosts
+Completed Service scan at 19:03, 6.62s elapsed (1 service on 2 hosts)
+Initiating OS detection (try #1) against 2 hosts
+Retrying OS detection (try #2) against 192.168.104.95
+WARNING: OS didn't match until try #2
+NSE: Script scanning 2 hosts.
+Initiating NSE at 19:03
+Completed NSE at 19:03, 8.58s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.01s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.01s elapsed
+Nmap scan report for 192.168.104.78
+Host is up (0.25s latency).
+All 1000 scanned ports on 192.168.104.78 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: A6:43:E6:FD:24:5E (Unknown)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: general purpose|media device|specialized
+Running: Microsoft Windows 10|11|2016, Microsoft Xbox 360, NTI embedded
+OS CPE: cpe:/o:microsoft:windows_10 cpe:/o:microsoft:windows_11 cpe:/o:microsoft:windows_server_2016 cpe:/h:microsoft:xbox_360_kernel
+OS details: Microsoft Windows 10 - 11, Microsoft Windows Server 2016, Microsoft Xbox 360 Dashboard, NTI E-MICRO-TRHP temperature sensor
+Network Distance: 1 hop
+
+TRACEROUTE
+HOP RTT       ADDRESS
+1   251.22 ms 192.168.104.78
+
+Nmap scan report for 192.168.104.95
+Host is up (0.023s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+53/tcp open  domain  dnsmasq 2.51
+| dns-nsid: 
+|_  bind.version: dnsmasq-2.51
+MAC Address: 56:C0:C5:5C:32:88 (Unknown)
+Device type: phone
+Running: Google Android 10.X, Linux 4.X
+OS CPE: cpe:/o:google:android:10 cpe:/o:linux:linux_kernel:4
+OS details: Android 9 - 10 (Linux 4.9 - 4.14)
+Uptime guess: 5.682 days (since Wed Jul 30 02:41:45 2025)
+Network Distance: 1 hop
+TCP Sequence Prediction: Difficulty=254 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+TRACEROUTE
+HOP RTT      ADDRESS
+1   22.78 ms 192.168.104.95
+
+Initiating SYN Stealth Scan at 19:03
+Scanning 192.168.104.241 [1000 ports]
+Discovered open port 3389/tcp on 192.168.104.241
+Discovered open port 135/tcp on 192.168.104.241
+Discovered open port 445/tcp on 192.168.104.241
+Discovered open port 139/tcp on 192.168.104.241
+Discovered open port 49152/tcp on 192.168.104.241
+Discovered open port 1935/tcp on 192.168.104.241
+Discovered open port 7070/tcp on 192.168.104.241
+Completed SYN Stealth Scan at 19:03, 0.48s elapsed (1000 total ports)
+Initiating Service scan at 19:03
+Scanning 7 services on 192.168.104.241
+Completed Service scan at 19:03, 11.53s elapsed (7 services on 1 host)
+Initiating OS detection (try #1) against 192.168.104.241
+NSE: Script scanning 192.168.104.241.
+Initiating NSE at 19:03
+Completed NSE at 19:03, 12.72s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.68s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.01s elapsed
+Nmap scan report for 192.168.104.241
+Host is up (0.00090s latency).
+Not shown: 993 closed tcp ports (reset)
+PORT      STATE SERVICE         VERSION
+135/tcp   open  msrpc           Microsoft Windows RPC
+139/tcp   open  netbios-ssn     Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds?
+1935/tcp  open  tcpwrapped
+3389/tcp  open  ms-wbt-server   Microsoft Terminal Services
+|_ssl-date: 2025-08-04T13:33:49+00:00; 0s from scanner time.
+| ssl-cert: Subject: commonName=Lenovo
+| Issuer: commonName=Lenovo
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-03-17T15:23:30
+| Not valid after:  2025-09-16T15:23:30
+| MD5:     3618 87b3 4de1 2c7f 7760 1a95 f327 c39e
+| SHA-1:   74f9 20ef 955d d47e 411d b6f8 9166 bf0d 40c3 dd4e
+|_SHA-256: ebb4 3655 abc6 33fb 8feb 8a47 511f 2d55 b1b0 2d02 fdad b3cf 54fc e1bf 6255 9dc1
+| rdp-ntlm-info: 
+|   Target_Name: LENOVO
+|   NetBIOS_Domain_Name: LENOVO
+|   NetBIOS_Computer_Name: LENOVO
+|   DNS_Domain_Name: Lenovo
+|   DNS_Computer_Name: Lenovo
+|   Product_Version: 10.0.17763
+|_  System_Time: 2025-08-04T13:33:37+00:00
+7070/tcp  open  ssl/realserver?
+| ssl-cert: Subject: commonName=AnyDesk Client
+| Issuer: commonName=AnyDesk Client
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2020-09-20T05:50:11
+| Not valid after:  2070-09-08T05:50:11
+| MD5:     191e d3d9 07fb 5d3d a305 dbc5 fda6 dc5a
+| SHA-1:   1752 3707 b4b5 1548 bbdd 2390 9e13 d951 cb78 cea1
+|_SHA-256: 1a19 f41c 2494 0b25 ac41 824f 43cd 8ffd 528b b4d4 f0a2 ff12 c3f4 971b c927 658e
+|_ssl-date: TLS randomness does not represent time
+49152/tcp open  upnp            Portable SDK for UPnP devices 1.4.7 (Windows 6.2.9200 2; UPnP 1.0)
+Device type: general purpose
+Running: Microsoft Windows 10
+OS CPE: cpe:/o:microsoft:windows_10
+OS details: Microsoft Windows 10 1809 - 21H2
+Network Distance: 0 hops
+TCP Sequence Prediction: Difficulty=262 (Good luck!)
+IP ID Sequence Generation: Incremental
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Host script results:
+| smb2-time: 
+|   date: 2025-08-04T13:33:40
+|_  start_date: N/A
+| smb2-security-mode: 
+|   3.1.1: 
+|_    Message signing enabled but not required
+
+NSE: Script Post-scanning.
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.00s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.00s elapsed
+Initiating NSE at 19:03
+Completed NSE at 19:03, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (3 hosts up) scanned in 137.16 seconds
+           Raw packets sent: 3693 (158.898KB) | Rcvd: 4197 (175.228KB)
