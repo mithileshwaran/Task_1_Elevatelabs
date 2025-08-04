@@ -1,7 +1,7 @@
 # 🚨 Cyber Security Internship - Task 1: Port Scanning & Network Reconnaissance
 
 ## 📁 Repository: Task_1_Elevatelabs  
-## 👤 Intern Name: [Your Name]  
+## 👤 Intern Name: Mithileshwaran
 ## 🗓️ Date: 04-August-2025
 
 ---
