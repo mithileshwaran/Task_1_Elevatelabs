@@ -28,9 +28,9 @@ nmap -sS 192.168.104.0/24
 
 ---
 
- Output File: scan_result.txt
- Screenshot File: nmap_result_gui.png
- Zenmap Scan Result
+- **Output File:** scan_result.txt
+- **Screenshot File:** nmap_result_gui.png
+  
 
  Security Observations
 
@@ -60,5 +60,4 @@ nmap -sS 192.168.104.0/24
 
     README.md – This file
 
-```bash
-nmap -sS 192.168.104.0/24
+
