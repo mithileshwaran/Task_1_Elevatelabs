@@ -24,16 +24,15 @@ This task helped build practical skills in reconnaissance — the first phase of
 ## 🔍 Command Used
 
 
-```bash
 nmap -sS 192.168.104.0/24
 
 ---
 
-📂 Output File: scan_result.txt
-🖼️ Screenshot File: nmap_result_gui.png
-🖼️ Zenmap Scan Result
+ Output File: scan_result.txt
+ Screenshot File: nmap_result_gui.png
+ Zenmap Scan Result
 
-⚠️ Security Observations
+ Security Observations
 
     Port 22 (SSH) was open – could be brute-forced if weak credentials are used.
 
@@ -41,19 +40,19 @@ nmap -sS 192.168.104.0/24
 
     Port 445 (SMB) – may be vulnerable to exploits like EternalBlue.
 
-📘 What I Learned
+ What I Learned
 
-    🧠 I learned how to use Nmap for scanning a local network using both command line and GUI (Zenmap).
+     I learned how to use Nmap for scanning a local network using both command line and GUI (Zenmap).
 
-    🔍 Understood the concept of IP ranges, port numbers, and services that typically run on each port.
+     Understood the concept of IP ranges, port numbers, and services that typically run on each port.
 
-    🧪 Practiced using the TCP SYN scan, and learned how it checks for open ports in a stealthy way.
+     Practiced using the TCP SYN scan, and learned how it checks for open ports in a stealthy way.
 
-    🔐 Gained awareness of the security risks involved when services like SSH, HTTP, and SMB are exposed.
+     Gained awareness of the security risks involved when services like SSH, HTTP, and SMB are exposed.
 
-    📝 Learned how to write a README.md file in Markdown format, and organize files for GitHub submission.
+     Learned how to write a README.md file in Markdown format, and organize files for GitHub submission.
 
-📁 Files in This Repository
+ Files in This Repository
 
     scan_result.txt – Output of Nmap scan
 
